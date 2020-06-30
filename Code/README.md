@@ -4,25 +4,25 @@
 
 ### PNG version
 
-- [Question1](Code/1.png)
+- [Question1](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/1.png)
 
-- [Question2](Code/2.png)
+- [Question2](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/2.png)
 
-- [Question3](Code/3.png)
+- [Question3](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/3.png)
 
-- [Question4](Code/4.png)
+- [Question4](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/4.png)
 
-- [Question5](Code/5.png)
+- [Question5](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/5.png)
 
-- [Question6](Code/6.png)
+- [Question6](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/6.png)
 
-- [Question7](Code/7.png)
+- [Question7](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/7.png)
 
-- [Question8](Code/8.png)
+- [Question8](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/8.png)
 
-- [Question9](Code/9.png)
+- [Question9](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/9.png)
 
-- [Question10](Code/10.png)
+- [Question10](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/10.png)
 
 
 
