@@ -1,6 +1,6 @@
 ### PDF version
 
-- [pdf](Code/TPFS_Jelly.pdf)
+- [pdf](https://github.com/Coursera-Jelly/IntroductionToMathematicalThinking/blob/master/Code/TPFS_Jelly.pdf)
 
 ### PNG version
 
